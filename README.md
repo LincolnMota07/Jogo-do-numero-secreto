@@ -14,5 +14,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# 🫂 Time
+## 🔗 Site do Projeto
+<a href="https://jogo-do-numero-secreto-virid.vercel.app/" target="_blank">Jogo do Número Secreto</a>
+
+## 🫂 Time
 <img src="https://avatars.githubusercontent.com/u/116844681?v=4" alt="foto-Lincoln" width=115><br><a href="https://github.com/LincolnMota07" target="_blank">Lincoln Mota</a>
